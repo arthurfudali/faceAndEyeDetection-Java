@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/OpenCV-4.10.0"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/artoolkitplus-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/ffmpeg-windows-x86_64-gpl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/flycapture-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/javacpp-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/leptonica-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/libdc1394-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/libfreenect-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/librealsense-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/openblas-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/opencv-windows-x86_64-gpu.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/tesseract-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/videoinput-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/artoolkitplus.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/ffmpeg.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/flycapture.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/javacpp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/javacv.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/leptonica.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/libdc1394.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/libfreenect.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/libfreenect2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/libfreenect2-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/librealsense.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/librealsense2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/openblas.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/opencv.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/tesseract.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Documents/javacv-platform-1.5.10-bin/videoinput.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
